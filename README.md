@@ -30,7 +30,7 @@
 #### 利用Alert包TextField再包PickerView，以協助使用者更直覺性的選取隊伍。 ####
 
 
-![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/IMG_6600.PNG)
+![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/basketballBox_img/IMG_65991.PNG)
 
 ## 選擇球員 ##
 
