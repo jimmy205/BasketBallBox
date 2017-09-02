@@ -23,14 +23,14 @@
 
 ## 進入後首頁_選擇功能 ##
 
-![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/IMG_6599.PNG)
+![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/IMG_65991.PNG)
 
 ## 選擇球隊 ##
 
 #### 利用Alert包TextField再包PickerView，以協助使用者更直覺性的選取隊伍。 ####
 
 
-![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/basketballBox_img/IMG_65991.PNG)
+![alt text](https://github.com/jimmy205/jimmy205.github.io/blob/master/basketballBox_img/IMG_6600.PNG)
 
 ## 選擇球員 ##
 
